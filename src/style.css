@@ -1,0 +1,12 @@
+img{
+    float: left;
+    width: 200px;
+    height: 200px;
+}
+.kep{
+    float: right;
+}
+footer{
+    position: absolute;
+    bottom: 0;
+}
